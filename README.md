@@ -18,14 +18,33 @@ Motivated cybersecurity student with a strong foundation in hands-on learning an
 
 A collection of home lab walkthroughs covering core penetration testing concepts from the ground up.
 
-| # | Lab | Description |
-|---|-----|-------------|
-| 01 | Home Lab Setup *(In Progress)* | Set up an isolated penetration testing environment using Kali Linux and intentionally vulnerable machines |
-| 02 | Network Recon *(In Progress)* | Performed network reconnaissance against an isolated lab environment to identify live hosts, open ports, and running services |
-| 03 | Coming soon | — |
-| 04 | Coming soon | — |
-| 05 | Coming soon | — |
+| # | Lab | Description | Status |
+|---|-----|-------------|--------|
+| 01 | Home Lab Setup | Set up an isolated penetration testing environment using Kali Linux and intentionally vulnerable machines | [🔄 In Progress](https://github.com/joseph-guidici/pentest-lab-01-home-lab-setup) |
+| 02 | Network Reconnaissance | Performed network reconnaissance against an isolated lab environment to identify live hosts, open ports, and running services | [🔄 In Progress](https://github.com/joseph-guidici/pentest-lab-02-network-recon) |
+| 03 | OSINT Gathering | — | ⬜ Not Started |
+| 04 | Vulnerability Scanning | — | ⬜ Not Started |
+| 05 | Metasploit Basics | — | ⬜ Not Started |
+| 06 | Web Application Testing | — | ⬜ Not Started |
+| 07 | Password Cracking | — | ⬜ Not Started |
+| 08 | Linux Privilege Escalation | — | ⬜ Not Started |
+| 09 | Windows Privilege Escalation | — | ⬜ Not Started |
+| 10 | Wireless Network Attacks | — | ⬜ Not Started |
+| 11 | Active Directory Attacks | — | ⬜ Not Started |
+| 12 | Full Pentest Simulation | — | ⬜ Not Started |
 
+### Google Certification Series
+
+A collection of labs completed within the Google Cybersecurity Certification.
+| # | Lab | Description | Status |
+|---|-----|-------------|--------|
+| 01 | Security Audit | Performed a security audit for a fictional company | [✅ Completed](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/security-audit) |
+| 02 | Network Traffic Analysis | — | ⬜ Not Started |
+| 03 | Linux File Permissions | — | ⬜ Not Started |
+| 04 | SQL Security Filters | — | ⬜ Not Started |
+| 05 | Vulnerability Assessment | — | ⬜ Not Started |
+| 06 | Incident Handler's Journal | — | ⬜ Not Started |
+| 07 | Python File Parser | — | ⬜ Not Started |
 ---
 
 ## Currently Learning
