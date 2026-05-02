@@ -20,8 +20,8 @@ A collection of home lab walkthroughs covering core penetration testing concepts
 
 | # | Lab | Description |
 |---|-----|-------------|
-| 01 | [Home Lab Setup](https://github.com/j0egee/pentest-lab-01-home-lab-setup) *(In Progress)* | Set up an isolated penetration testing environment using Kali Linux and intentionally vulnerable machines |
-| 02 | [Network Recon](https://github.com/j0egee/pentest-lab-02-network-recon) *(In Progress)* | Performed network reconnaissance against an isolated lab environment to identify live hosts, open ports, and running services |
+| 01 | Home Lab Setup *(In Progress)* | Set up an isolated penetration testing environment using Kali Linux and intentionally vulnerable machines |
+| 02 | Network Recon *(In Progress)* | Performed network reconnaissance against an isolated lab environment to identify live hosts, open ports, and running services |
 | 03 | Coming soon | — |
 | 04 | Coming soon | — |
 | 05 | Coming soon | — |
@@ -30,7 +30,7 @@ A collection of home lab walkthroughs covering core penetration testing concepts
 
 ## Currently Learning
 
-- 
+- Kali Linux
 
 ---
 
