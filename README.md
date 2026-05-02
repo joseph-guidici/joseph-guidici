@@ -8,7 +8,7 @@ Motivated cybersecurity student with a strong foundation in hands-on learning an
 
 ## Certifications
 
-- **Google Cybersecurity Certificate** — Google Career Certificates *(In Progress)*
+- [**Google Cybersecurity Certificate** — Google Career Certificates *(In Progress)*](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate.git)
 
 ---
 
