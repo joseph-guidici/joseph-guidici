@@ -2,7 +2,7 @@
 
 Motivated cybersecurity student with a strong foundation in hands-on learning and a demonstrated ability to lead teams and deliver results in fast-paced environments. As a Team Leader at Chick-fil-A, I have developed the communication, accountability, and attention to detail that technical roles demand — skills I now bring to my pursuit of a career in IT security. I am building practical experience through self-directed projects and labs, with a focus on growing into a role where I can protect systems, solve problems, and contribute to a team that takes security seriously.
 
-📄 [Download My Resume](./Resume.pdf)
+📄 [Download My Resume](./assets/Resume.pdf)
 
 ---
 
