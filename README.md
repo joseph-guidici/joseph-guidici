@@ -14,7 +14,7 @@ Motivated cybersecurity student with a strong foundation in hands-on learning an
 
 ## Projects
 
-[Ethical Notice](./ETHICS.md)
+[Ethical & Legal Disclosure](./ETHICS.md)
 
 ### Pentest Lab Series
 
