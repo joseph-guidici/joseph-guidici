@@ -14,6 +14,8 @@ Motivated cybersecurity student with a strong foundation in hands-on learning an
 
 ## Projects
 
+[Ethical Notice](./ETHICS.md)
+
 ### Pentest Lab Series
 
 A collection of home lab walkthroughs covering core penetration testing concepts from the ground up.
