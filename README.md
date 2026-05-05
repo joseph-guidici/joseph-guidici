@@ -42,12 +42,12 @@ A collection of labs completed within the Google Cybersecurity Certification.
 | # | Lab | Description | Status |
 |---|-----|-------------|--------|
 | 01 | Security Audit | Performed a security audit for a fictional company | [✅ Completed](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/security-audit) |
-| 02 | Network Traffic Analysis | — | ⬜ Not Started |
-| 03 | Linux File Permissions | — | ⬜ Not Started |
-| 04 | SQL Security Filters | — | ⬜ Not Started |
-| 05 | Vulnerability Assessment | — | ⬜ Not Started |
-| 06 | Incident Handler's Journal | — | ⬜ Not Started |
-| 07 | Python File Parser | — | ⬜ Not Started |
+| 02 | Network Traffic Analysis | Analyzed live and captured network traffic using Wireshark to identify protocols, suspicious activity, and potential security incidents | ⬜ Not Started |
+| 03 | Linux File Permissions | Used the Linux command line to inspect and modify file permissions, manage users and groups, and apply the principle of least privilege | ⬜ Not Started |
+| 04 | SQL Security Filters | Wrote SQL queries to filter and investigate employee and login activity logs to support a security incident investigation | ⬜ Not Started |
+| 05 | Vulnerability Assessment | Assessed a fictional company's system against the NIST framework, identified risks, and documented remediation recommendations | ⬜ Not Started |
+| 06 | Incident Handler's Journal | Documented a series of security incidents using a structured journal format, covering detection, analysis, containment, and lessons learned | ⬜ Not Started |
+| 07 | Python File Parser | Built a Python script to automate the parsing and updating of an employee access log file, applying string and list manipulation techniques | ⬜ Not Started |
 
 ---
 
