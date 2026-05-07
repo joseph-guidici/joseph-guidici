@@ -6,12 +6,6 @@ Motivated cybersecurity student with a strong foundation in hands-on learning an
 
 ---
 
-## Certifications
-
-- [**Google Cybersecurity Certificate** — Google Career Certificates *(In Progress)*](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate.git)
-
----
-
 ## Projects
 
 **[Ethical & Legal Disclosure](./ETHICS.md)**
@@ -37,7 +31,7 @@ A collection of home lab walkthroughs covering core penetration testing concepts
 
 ### Google Certification Series
 
-A collection of labs completed within the Google Cybersecurity Certification.
+A collection of labs completed within the [**Google Cybersecurity Certificate** *(In Progress)*](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate.git).
 
 | # | Lab | Description | Status |
 |---|-----|-------------|--------|
