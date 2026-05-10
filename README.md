@@ -16,8 +16,8 @@ A collection of home lab walkthroughs covering core penetration testing concepts
 
 | # | Lab | Description | Status |
 |---|-----|-------------|--------|
-| 01 | Home Lab Setup | Set up an isolated penetration testing environment using Kali Linux and intentionally vulnerable machines | [🔄 In Progress](https://github.com/joseph-guidici/pentest-lab-01-home-lab-setup) |
-| 02 | Network Reconnaissance | Performed network reconnaissance against an isolated lab environment to identify live hosts, open ports, and running services | ⬜ Not Started |
+| 01 | Home Lab Setup | Set up an isolated penetration testing environment using Kali Linux and intentionally vulnerable machines | [✅ Completed](https://github.com/joseph-guidici/pentest-lab-01-home-lab-setup) |
+| 02 | Network Reconnaissance | Performed network reconnaissance against an isolated lab environment to identify live hosts, open ports, and running services | 🔄 In Progress |
 | 03 | OSINT Gathering | Conducted open source intelligence gathering on an authorized practice target using passive reconnaissance techniques to collect emails, subdomains, IP addresses, and metadata without directly interacting with any systems | ⬜ Not Started |
 | 04 | Vulnerability Scanning | Scanned an intentionally vulnerable machine using OpenVAS, Nessus Essentials, and Nmap NSE scripts to identify known CVEs, assess severity ratings, and document remediation recommendations | ⬜ Not Started |
 | 05 | Metasploit Basics | Exploited known vulnerabilities on a target machine using the Metasploit Framework, covering the full attack chain from module selection through successful exploitation and post-exploitation enumeration | ⬜ Not Started |
