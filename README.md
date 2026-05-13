@@ -14,10 +14,10 @@ Motivated cybersecurity student with a strong foundation in hands-on learning an
 
 A collection of home lab walkthroughs covering core penetration testing concepts from the ground up.
 
-| # | Lab | Description | Status |
-|---|-----|-------------|--------|
-| 01 | Home Lab Setup | Set up an isolated penetration testing environment using Kali Linux and intentionally vulnerable machines | [✅ Completed](https://github.com/joseph-guidici/pentest-lab-01-home-lab-setup) |
-| 02 | Network Reconnaissance | Performed network reconnaissance against an isolated lab environment to identify live hosts, open ports, and running services | 🔄 In Progress |
+| # | Lab | Description | Status | Link |
+|---|-----|-------------|--------|------|
+| 01 | Home Lab Setup | Set up an isolated penetration testing environment using Kali Linux and intentionally vulnerable machines | ✅Completed | [GitHub](https://github.com/joseph-guidici/pentest-lab-01-home-lab-setup) |
+| 02 | Network Reconnaissance | Performed network reconnaissance against an isolated lab environment to identify live hosts, open ports, and running services | 🔄In Progress |
 | 03 | OSINT Gathering | Conducted open source intelligence gathering on an authorized practice target using passive reconnaissance techniques to collect emails, subdomains, IP addresses, and metadata without directly interacting with any systems | ⬜ |
 | 04 | Vulnerability Scanning | Scanned an intentionally vulnerable machine using OpenVAS, Nessus Essentials, and Nmap NSE scripts to identify known CVEs, assess severity ratings, and document remediation recommendations | ⬜ |
 | 05 | Metasploit Basics | Exploited known vulnerabilities on a target machine using the Metasploit Framework, covering the full attack chain from module selection through successful exploitation and post-exploitation enumeration | ⬜ |
@@ -33,12 +33,12 @@ A collection of home lab walkthroughs covering core penetration testing concepts
 
 A collection of labs completed within the [**Google Cybersecurity Certificate** *(In Progress)*](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate.git).
 
-| # | Lab | Description | Status |
-|---|-----|-------------|--------|
-| 01 | Security Audit | Performed a security audit for a fictional company | [✅ Completed](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/security-audit) |
-| 02 | Network Traffic Analysis | Analyzed live and captured network traffic using Wireshark to identify protocols, suspicious activity, and potential security incidents | [✅ Completed](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/network-traffic-analysis) |
-| 03 | Linux File Permissions | Used the Linux command line to inspect and modify file permissions, manage users and groups, and apply the principle of least privilege | [✅ Completed](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/linux-permissions) |
-| 04 | SQL Security Filters | Wrote SQL queries to filter and investigate employee and login activity logs to support a security incident investigation | 🔄 In Progress |
+| # | Lab | Description | Status | Link |
+|---|-----|-------------|--------|------|
+| 01 | Security Audit | Performed a security audit for a fictional company | ✅Completed | [GitHub](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/security-audit) |
+| 02 | Network Traffic Analysis | Analyzed live and captured network traffic using Wireshark to identify protocols, suspicious activity, and potential security incidents | ✅Completed | [GitHub](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/network-traffic-analysis) |
+| 03 | Linux File Permissions | Used the Linux command line to inspect and modify file permissions, manage users and groups, and apply the principle of least privilege | ✅Completed | [GitHub](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/linux-permissions) |
+| 04 | SQL Security Filters | Wrote SQL queries to filter and investigate employee and login activity logs to support a security incident investigation | 🔄In Progress |
 | 05 | Vulnerability Assessment | Assessed a fictional company's system against the NIST framework, identified risks, and documented remediation recommendations | ⬜ |
 | 06 | Incident Handler's Journal | Documented a series of security incidents using a structured journal format, covering detection, analysis, containment, and lessons learned | ⬜ |
 | 07 | Python File Parser | Built a Python script to automate the parsing and updating of an employee access log file, applying string and list manipulation techniques | ⬜ |
