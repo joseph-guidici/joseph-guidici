@@ -41,7 +41,7 @@ A collection of labs completed within the [**Google Cybersecurity Certificate** 
 | 04 | SQL Security Filters | Wrote SQL queries to filter and investigate employee and login activity logs to support a security incident investigation | ✅Completed | [GitHub](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/sql-filters) |
 | 05 | Vulnerability Assessment | Assessed a fictional company's system against the NIST framework, identified risks, and documented remediation recommendations | ✅Completed | [GitHub](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/vulnerability-assessment) |
 | 06 | Incident Handler's Journal | Documented a series of security incidents using a structured journal format, covering detection, analysis, containment, and lessons learned | ✅Completed | [GitHub](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/incident-handlers-journal) |
-| 07 | Python File Parser | Built a Python script to automate the parsing and updating of an employee access log file, applying string and list manipulation techniques | 🔄In Progress |
+| 07 | Python File Parser | Built a Python script to automate the parsing and updating of an employee access log file, applying string and list manipulation techniques | ✅Completed | [GitHub](https://github.com/joseph-guidici/Google-Cybersecurity-Professional-Certificate/tree/main/labs/python-file-parser) |
 
 ---
 
