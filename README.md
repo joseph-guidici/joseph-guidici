@@ -6,11 +6,17 @@ Motivated cybersecurity student with a strong foundation in hands-on learning an
 
 ## Projects
 
-**[Ethical & Legal Disclosure](./ETHICS.md)**
+### Digital Forensics Incident Response Series
+
+| Case # | Description | Status | Link |
+|--------|-------------|--------|------|
+| 001 | A full digital forensics examination of the NIST CFReDS Data Leakage Case. An employee is suspected of leaking confidential company data to an outside party. I examined his workstation and removable media to find out what was taken, how it left, when, and whether he tried to cover his tracks. | 🔄In Progress | [GitHub](https://github.com/joseph-guidici/dfir-case-001-data-leakage) |
 
 ### Pentest Lab Series
 
 A collection of home lab walkthroughs covering core penetration testing concepts from the ground up.
+
+**[Ethical & Legal Disclosure](./ETHICS.md)**
 
 | # | Lab | Description | Status | Link |
 |---|-----|-------------|--------|------|
